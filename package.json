@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap3-tpl",
+  "version": "0.0.1",
+  "description": "用于快速构建 bootstrap3 页面的模板",
+  "repository": "https://github.com/lovanya/bootstrap-tpl",
+  "author": "Bruce Lin <brucedevelop@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "lws --port=8000"
+  },
+  "devDependencies": {
+    "light-web-server": "^1.2.6",
+    "prettier": "^1.15.3"
+  }
+}
