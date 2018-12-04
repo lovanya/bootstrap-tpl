@@ -30,4 +30,4 @@ yarn run dev
 npm run dev
 ```
 
-成功启动后，在浏览器输入 http://localhost:8000/test.html
+成功启动后，在浏览器输入 http://localhost:8000/src/test.html
